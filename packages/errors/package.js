@@ -1,7 +1,8 @@
 Package.describe({
     name: "simonhoye:errors",
     summary: "A pattern to display application errors to the user",
-    version: "1.0.0"
+    version: "1.0.0",
+    documentation: null
 });
 
 Package.onUse(function (api, where) {
